@@ -1,0 +1,1 @@
+FROM bogdanas/symfony-php:7.4
